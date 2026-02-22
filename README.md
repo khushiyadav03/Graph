@@ -17,4 +17,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/khushiyadav03/Graph/tree/master/0547-number-of-provinces) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0868-binary-gap](https://github.com/khushiyadav03/Graph/tree/master/0868-binary-gap) |
 <!---LeetCode Topics End-->
