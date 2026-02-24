@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/khushiyadav03/Graph/tree/master/0207-course-schedule) |
+| [0542-01-matrix](https://github.com/khushiyadav03/Graph/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/khushiyadav03/Graph/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/khushiyadav03/Graph/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/khushiyadav03/Graph/tree/master/0994-rotting-oranges) |
@@ -31,12 +32,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/khushiyadav03/Graph/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/khushiyadav03/Graph/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/khushiyadav03/Graph/tree/master/0994-rotting-oranges) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/khushiyadav03/Graph/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Matrix
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/khushiyadav03/Graph/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/khushiyadav03/Graph/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/khushiyadav03/Graph/tree/master/0994-rotting-oranges) |
 ## Math
@@ -88,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/khushiyadav03/Graph/tree/master/0207-course-schedule) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0542-01-matrix](https://github.com/khushiyadav03/Graph/tree/master/0542-01-matrix) |
 <!---LeetCode Topics End-->
