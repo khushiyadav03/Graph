@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/khushiyadav03/Graph/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/khushiyadav03/Graph/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/khushiyadav03/Graph/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/khushiyadav03/Graph/tree/master/0207-course-schedule) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/khushiyadav03/Graph/tree/master/0127-word-ladder) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/khushiyadav03/Graph/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/khushiyadav03/Graph/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Linked List
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/khushiyadav03/Graph/tree/master/0127-word-ladder) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/khushiyadav03/Graph/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Rolling Hash
 |  |
