@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0126-word-ladder-ii](https://github.com/khushiyadav03/Graph/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/khushiyadav03/Graph/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/khushiyadav03/Graph/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/khushiyadav03/Graph/tree/master/0200-number-of-islands) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0126-word-ladder-ii](https://github.com/khushiyadav03/Graph/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/khushiyadav03/Graph/tree/master/0127-word-ladder) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/khushiyadav03/Graph/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/khushiyadav03/Graph/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0126-word-ladder-ii](https://github.com/khushiyadav03/Graph/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/khushiyadav03/Graph/tree/master/0127-word-ladder) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/khushiyadav03/Graph/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/khushiyadav03/Graph/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -143,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/khushiyadav03/Graph/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+## Backtracking
+|  |
+| ------- |
+| [0126-word-ladder-ii](https://github.com/khushiyadav03/Graph/tree/master/0126-word-ladder-ii) |
 <!---LeetCode Topics End-->
