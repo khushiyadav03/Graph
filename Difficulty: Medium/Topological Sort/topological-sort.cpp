@@ -1,49 +1,49 @@
 class Solution {
   public:
-    vector<int> topoSort(int V, vector<vector<int>>& edges) {
+  
+    bool dfs(int node, vector<vector<int>>& adj, 
+             vector<int>& state, stack<int>& st) {
         
-        // Create adjacency list
-        vector<vector<int>> adj(V);
-        for(auto &edge : edges){
-            int u = edge[0];
-            int v = edge[1];
-            adj[u].push_back(v);
-        }
+        state[node] = 1;  // mark as visiting
         
-        // Compute indegree
-        vector<int> indegree(V, 0);
-        for(int u = 0; u < V; u++){
-            for(int v : adj[u]) {
-                indegree[v]++;
+        for(int neighbor : adj[node]) {
+            
+            if(state[neighbor] == 0) {
+                if(dfs(neighbor, adj, state, st))
+                    return true;   // cycle found
+            }
+            else if(state[neighbor] == 1) {
+                return true;       // back edge → cycle
             }
         }
         
-        // Push all nodes with indegree 0
-        queue<int> q;
-        for(int i = 0; i < V; i++){
-            if(indegree[i] == 0) {
-                q.push(i);
+        state[node] = 2;  // mark as fully visited
+        st.push(node);    // push after exploring
+        
+        return false;
+    }
+  
+    vector<int> topoSort(int V, vector<vector<int>>& edges) {
+        vector<vector<int>> adj(V);
+        for(auto &edge : edges) {
+            adj[edge[0]].push_back(edge[1]);
+        }
+        
+        vector<int> state(V, 0);
+        stack<int> st;
+        
+        for(int i = 0; i < V; i++) {
+            if(state[i] == 0) {
+                if(dfs(i, adj, state, st))
+                    return {};     // cycle detected
             }
         }
         
         vector<int> res;
-        
-        // BFS
-        while(!q.empty()){
-            int node = q.front();
-            q.pop();
-            res.push_back(node);
-            
-            for(int n : adj[node]){
-                indegree[n]--;
-                if(indegree[n] == 0) {
-                    q.push(n);
-                }
-            }
+        while(!st.empty()) {
+            res.push_back(st.top());
+            st.pop();
         }
-        
-        // Check for cycle
-        if(res.size() != V) return {};
         
         return res;
     }
