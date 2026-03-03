@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/khushiyadav03/Graph/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/khushiyadav03/Graph/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/khushiyadav03/Graph/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/khushiyadav03/Graph/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/khushiyadav03/Graph/tree/master/1020-number-of-enclaves) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/khushiyadav03/Graph/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Breadth-First Search
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/khushiyadav03/Graph/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/khushiyadav03/Graph/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/khushiyadav03/Graph/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/khushiyadav03/Graph/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/khushiyadav03/Graph/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/khushiyadav03/Graph/tree/master/1020-number-of-enclaves) |
 ## Union-Find
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/khushiyadav03/Graph/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/khushiyadav03/Graph/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/khushiyadav03/Graph/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/khushiyadav03/Graph/tree/master/0802-find-eventual-safe-states) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -134,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/khushiyadav03/Graph/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/khushiyadav03/Graph/tree/master/0210-course-schedule-ii) |
+| [0802-find-eventual-safe-states](https://github.com/khushiyadav03/Graph/tree/master/0802-find-eventual-safe-states) |
 ## Dynamic Programming
 |  |
 | ------- |
