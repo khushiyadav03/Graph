@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/khushiyadav03/Graph/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/khushiyadav03/Graph/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/khushiyadav03/Graph/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/khushiyadav03/Graph/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/khushiyadav03/Graph/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/khushiyadav03/Graph/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/khushiyadav03/Graph/tree/master/1020-number-of-enclaves) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/khushiyadav03/Graph/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/khushiyadav03/Graph/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/khushiyadav03/Graph/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/khushiyadav03/Graph/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/khushiyadav03/Graph/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/khushiyadav03/Graph/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/khushiyadav03/Graph/tree/master/0994-rotting-oranges) |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/khushiyadav03/Graph/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/khushiyadav03/Graph/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/khushiyadav03/Graph/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/khushiyadav03/Graph/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/khushiyadav03/Graph/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/khushiyadav03/Graph/tree/master/0802-find-eventual-safe-states) |
 ## Bit Manipulation
@@ -101,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/khushiyadav03/Graph/tree/master/0743-network-delay-time) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/khushiyadav03/Graph/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Simulation
 |  |
@@ -175,4 +179,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/khushiyadav03/Graph/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/khushiyadav03/Graph/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
