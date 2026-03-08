@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/khushiyadav03/Graph/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/khushiyadav03/Graph/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/khushiyadav03/Graph/tree/master/1631-path-with-minimum-effort) |
+| [1980-find-unique-binary-string](https://github.com/khushiyadav03/Graph/tree/master/1980-find-unique-binary-string) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/khushiyadav03/Graph/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Matrix
 |  |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/khushiyadav03/Graph/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/khushiyadav03/Graph/tree/master/0127-word-ladder) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/khushiyadav03/Graph/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1980-find-unique-binary-string](https://github.com/khushiyadav03/Graph/tree/master/1980-find-unique-binary-string) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/khushiyadav03/Graph/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Linked List
 |  |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/khushiyadav03/Graph/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/khushiyadav03/Graph/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/khushiyadav03/Graph/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [1980-find-unique-binary-string](https://github.com/khushiyadav03/Graph/tree/master/1980-find-unique-binary-string) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0126-word-ladder-ii](https://github.com/khushiyadav03/Graph/tree/master/0126-word-ladder-ii) |
+| [1980-find-unique-binary-string](https://github.com/khushiyadav03/Graph/tree/master/1980-find-unique-binary-string) |
 ## Greedy
 |  |
 | ------- |
