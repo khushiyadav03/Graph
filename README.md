@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/khushiyadav03/Graph/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/khushiyadav03/Graph/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/khushiyadav03/Graph/tree/master/1631-path-with-minimum-effort) |
+| [1770-maximum-score-from-performing-multiplication-operations](https://github.com/khushiyadav03/Graph/tree/master/1770-maximum-score-from-performing-multiplication-operations) |
 | [1980-find-unique-binary-string](https://github.com/khushiyadav03/Graph/tree/master/1980-find-unique-binary-string) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/khushiyadav03/Graph/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Matrix
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0542-01-matrix](https://github.com/khushiyadav03/Graph/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/khushiyadav03/Graph/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1770-maximum-score-from-performing-multiplication-operations](https://github.com/khushiyadav03/Graph/tree/master/1770-maximum-score-from-performing-multiplication-operations) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/khushiyadav03/Graph/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/khushiyadav03/Graph/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/khushiyadav03/Graph/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
