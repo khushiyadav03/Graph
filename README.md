@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1584-min-cost-to-connect-all-points](https://github.com/khushiyadav03/Graph/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/khushiyadav03/Graph/tree/master/1631-path-with-minimum-effort) |
 | [1770-maximum-score-from-performing-multiplication-operations](https://github.com/khushiyadav03/Graph/tree/master/1770-maximum-score-from-performing-multiplication-operations) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/khushiyadav03/Graph/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1980-find-unique-binary-string](https://github.com/khushiyadav03/Graph/tree/master/1980-find-unique-binary-string) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/khushiyadav03/Graph/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/khushiyadav03/Graph/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -103,12 +104,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/khushiyadav03/Graph/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/khushiyadav03/Graph/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/khushiyadav03/Graph/tree/master/1631-path-with-minimum-effort) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/khushiyadav03/Graph/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 ## Math
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/khushiyadav03/Graph/tree/master/0319-bulb-switcher) |
 | [1622-fancy-sequence](https://github.com/khushiyadav03/Graph/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/khushiyadav03/Graph/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/khushiyadav03/Graph/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/khushiyadav03/Graph/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Brainteaser
 |  |
@@ -132,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/khushiyadav03/Graph/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/khushiyadav03/Graph/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/khushiyadav03/Graph/tree/master/1631-path-with-minimum-effort) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/khushiyadav03/Graph/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/khushiyadav03/Graph/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/khushiyadav03/Graph/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Simulation
@@ -201,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/khushiyadav03/Graph/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/khushiyadav03/Graph/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 ## Counting
 |  |
 | ------- |
@@ -242,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/khushiyadav03/Graph/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/khushiyadav03/Graph/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/khushiyadav03/Graph/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 ## Minimum Spanning Tree
