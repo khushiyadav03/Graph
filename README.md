@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/khushiyadav03/Graph/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1584-min-cost-to-connect-all-points](https://github.com/khushiyadav03/Graph/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/khushiyadav03/Graph/tree/master/1631-path-with-minimum-effort) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/khushiyadav03/Graph/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1770-maximum-score-from-performing-multiplication-operations](https://github.com/khushiyadav03/Graph/tree/master/1770-maximum-score-from-performing-multiplication-operations) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/khushiyadav03/Graph/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1980-find-unique-binary-string](https://github.com/khushiyadav03/Graph/tree/master/1980-find-unique-binary-string) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/khushiyadav03/Graph/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/khushiyadav03/Graph/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/khushiyadav03/Graph/tree/master/1631-path-with-minimum-effort) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/khushiyadav03/Graph/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/khushiyadav03/Graph/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 ## Math
 |  |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/khushiyadav03/Graph/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/khushiyadav03/Graph/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/khushiyadav03/Graph/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 ## Counting
 |  |
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/khushiyadav03/Graph/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/khushiyadav03/Graph/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/khushiyadav03/Graph/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/khushiyadav03/Graph/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/khushiyadav03/Graph/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Recursion
