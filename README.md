@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1770-maximum-score-from-performing-multiplication-operations](https://github.com/khushiyadav03/Graph/tree/master/1770-maximum-score-from-performing-multiplication-operations) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/khushiyadav03/Graph/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1980-find-unique-binary-string](https://github.com/khushiyadav03/Graph/tree/master/1980-find-unique-binary-string) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/khushiyadav03/Graph/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/khushiyadav03/Graph/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/khushiyadav03/Graph/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Matrix
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/khushiyadav03/Graph/tree/master/1631-path-with-minimum-effort) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/khushiyadav03/Graph/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/khushiyadav03/Graph/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/khushiyadav03/Graph/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 ## Math
 |  |
 | ------- |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/khushiyadav03/Graph/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/khushiyadav03/Graph/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/khushiyadav03/Graph/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/khushiyadav03/Graph/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
