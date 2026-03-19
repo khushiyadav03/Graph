@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/khushiyadav03/Graph/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/khushiyadav03/Graph/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/khushiyadav03/Graph/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/khushiyadav03/Graph/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/khushiyadav03/Graph/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/khushiyadav03/Graph/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/khushiyadav03/Graph/tree/master/0785-is-graph-bipartite) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/khushiyadav03/Graph/tree/master/0210-course-schedule-ii) |
 | [0542-01-matrix](https://github.com/khushiyadav03/Graph/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/khushiyadav03/Graph/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/khushiyadav03/Graph/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/khushiyadav03/Graph/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/khushiyadav03/Graph/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/khushiyadav03/Graph/tree/master/0785-is-graph-bipartite) |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/khushiyadav03/Graph/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/khushiyadav03/Graph/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/khushiyadav03/Graph/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/khushiyadav03/Graph/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/khushiyadav03/Graph/tree/master/0785-is-graph-bipartite) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/khushiyadav03/Graph/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/khushiyadav03/Graph/tree/master/1020-number-of-enclaves) |
@@ -84,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/khushiyadav03/Graph/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/khushiyadav03/Graph/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/khushiyadav03/Graph/tree/master/0542-01-matrix) |
+| [0721-accounts-merge](https://github.com/khushiyadav03/Graph/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/khushiyadav03/Graph/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/khushiyadav03/Graph/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/khushiyadav03/Graph/tree/master/1020-number-of-enclaves) |
@@ -131,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0126-word-ladder-ii](https://github.com/khushiyadav03/Graph/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/khushiyadav03/Graph/tree/master/0127-word-ladder) |
+| [0721-accounts-merge](https://github.com/khushiyadav03/Graph/tree/master/0721-accounts-merge) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/khushiyadav03/Graph/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/khushiyadav03/Graph/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1980-find-unique-binary-string](https://github.com/khushiyadav03/Graph/tree/master/1980-find-unique-binary-string) |
@@ -168,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0126-word-ladder-ii](https://github.com/khushiyadav03/Graph/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/khushiyadav03/Graph/tree/master/0127-word-ladder) |
+| [0721-accounts-merge](https://github.com/khushiyadav03/Graph/tree/master/0721-accounts-merge) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/khushiyadav03/Graph/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/khushiyadav03/Graph/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/khushiyadav03/Graph/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -214,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0721-accounts-merge](https://github.com/khushiyadav03/Graph/tree/master/0721-accounts-merge) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/khushiyadav03/Graph/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/khushiyadav03/Graph/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/khushiyadav03/Graph/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
