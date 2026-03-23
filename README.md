@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/khushiyadav03/Graph/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/khushiyadav03/Graph/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1584-min-cost-to-connect-all-points](https://github.com/khushiyadav03/Graph/tree/master/1584-min-cost-to-connect-all-points) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/khushiyadav03/Graph/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/khushiyadav03/Graph/tree/master/1631-path-with-minimum-effort) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/khushiyadav03/Graph/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1770-maximum-score-from-performing-multiplication-operations](https://github.com/khushiyadav03/Graph/tree/master/1770-maximum-score-from-performing-multiplication-operations) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/khushiyadav03/Graph/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/khushiyadav03/Graph/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/khushiyadav03/Graph/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/khushiyadav03/Graph/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/khushiyadav03/Graph/tree/master/1631-path-with-minimum-effort) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/khushiyadav03/Graph/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/khushiyadav03/Graph/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/khushiyadav03/Graph/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/khushiyadav03/Graph/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/khushiyadav03/Graph/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/khushiyadav03/Graph/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1770-maximum-score-from-performing-multiplication-operations](https://github.com/khushiyadav03/Graph/tree/master/1770-maximum-score-from-performing-multiplication-operations) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/khushiyadav03/Graph/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/khushiyadav03/Graph/tree/master/1976-number-of-ways-to-arrive-at-destination) |
