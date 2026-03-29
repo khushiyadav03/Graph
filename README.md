@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/khushiyadav03/Graph/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/khushiyadav03/Graph/tree/master/0200-number-of-islands) |
+| [0289-game-of-life](https://github.com/khushiyadav03/Graph/tree/master/0289-game-of-life) |
 | [0542-01-matrix](https://github.com/khushiyadav03/Graph/tree/master/0542-01-matrix) |
 | [0721-accounts-merge](https://github.com/khushiyadav03/Graph/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/khushiyadav03/Graph/tree/master/0733-flood-fill) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/khushiyadav03/Graph/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/khushiyadav03/Graph/tree/master/0200-number-of-islands) |
+| [0289-game-of-life](https://github.com/khushiyadav03/Graph/tree/master/0289-game-of-life) |
 | [0542-01-matrix](https://github.com/khushiyadav03/Graph/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/khushiyadav03/Graph/tree/master/0733-flood-fill) |
 | [0778-swim-in-rising-water](https://github.com/khushiyadav03/Graph/tree/master/0778-swim-in-rising-water) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0289-game-of-life](https://github.com/khushiyadav03/Graph/tree/master/0289-game-of-life) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/khushiyadav03/Graph/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/khushiyadav03/Graph/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/khushiyadav03/Graph/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
