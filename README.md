@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/khushiyadav03/Graph/tree/master/0319-bulb-switcher) |
+| [0509-fibonacci-number](https://github.com/khushiyadav03/Graph/tree/master/0509-fibonacci-number) |
 | [1622-fancy-sequence](https://github.com/khushiyadav03/Graph/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/khushiyadav03/Graph/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/khushiyadav03/Graph/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/khushiyadav03/Graph/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/khushiyadav03/Graph/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/khushiyadav03/Graph/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/khushiyadav03/Graph/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/khushiyadav03/Graph/tree/master/0509-fibonacci-number) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/khushiyadav03/Graph/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Shortest Path
 |  |
@@ -352,4 +355,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2751-robot-collisions](https://github.com/khushiyadav03/Graph/tree/master/2751-robot-collisions) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/khushiyadav03/Graph/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
