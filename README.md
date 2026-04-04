@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/khushiyadav03/Graph/tree/master/0070-climbing-stairs) |
 | [0319-bulb-switcher](https://github.com/khushiyadav03/Graph/tree/master/0319-bulb-switcher) |
 | [0509-fibonacci-number](https://github.com/khushiyadav03/Graph/tree/master/0509-fibonacci-number) |
 | [1622-fancy-sequence](https://github.com/khushiyadav03/Graph/tree/master/1622-fancy-sequence) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/khushiyadav03/Graph/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/khushiyadav03/Graph/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/khushiyadav03/Graph/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/khushiyadav03/Graph/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -365,5 +367,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/khushiyadav03/Graph/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/khushiyadav03/Graph/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
