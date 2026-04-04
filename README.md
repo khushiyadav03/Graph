@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/khushiyadav03/Graph/tree/master/0542-01-matrix) |
 | [0721-accounts-merge](https://github.com/khushiyadav03/Graph/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/khushiyadav03/Graph/tree/master/0733-flood-fill) |
+| [0746-min-cost-climbing-stairs](https://github.com/khushiyadav03/Graph/tree/master/0746-min-cost-climbing-stairs) |
 | [0778-swim-in-rising-water](https://github.com/khushiyadav03/Graph/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/khushiyadav03/Graph/tree/master/0827-making-a-large-island) |
 | [0994-rotting-oranges](https://github.com/khushiyadav03/Graph/tree/master/0994-rotting-oranges) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/khushiyadav03/Graph/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/khushiyadav03/Graph/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/khushiyadav03/Graph/tree/master/0542-01-matrix) |
+| [0746-min-cost-climbing-stairs](https://github.com/khushiyadav03/Graph/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/khushiyadav03/Graph/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/khushiyadav03/Graph/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/khushiyadav03/Graph/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
